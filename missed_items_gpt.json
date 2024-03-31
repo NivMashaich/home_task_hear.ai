@@ -1,0 +1,67 @@
+[
+    {
+        "section_number": 1,
+        "missed_items": [
+            "ID number",
+            "Occupation",
+            "Smoking Authorization to Use Insurance Data",
+            "Insurance Mountain site consent"
+        ]
+    },
+    {
+        "section_number": 2,
+        "missed_items": [
+            "Type of existing coverage",
+            "Insurance case",
+            "Types of existing coverages",
+            "Type of missing coverage",
+            "Insurance company name website consent"
+        ]
+    },
+    {
+        "section_number": 3,
+        "missed_items": [
+            "Explanation of main coverages",
+            "Basic Health Policy",
+            "Medications Outside the Basket",
+            "Transplants and Special Treatments Abroad",
+            "Surgeries and Surgery Alternatives Abroad",
+            "Surgeries in Israel and Surgery Alternatives in Israel",
+            "Israel Surgery Policy of the SHABAN Supplement type with a self-participation of 5,000 \u00c3\u00a2\u00e2\u20ac\u0161\u00c2\u00aa",
+            "SHABAN Supplement Israel Surgery Policy without Self-Participation",
+            "First Shekel Israel Surgery Policy without Self-Participation",
+            "Ambulatory Insurance Plans",
+            "Medicinal Consultations and Tests",
+            "Rapid Diagnosis",
+            "Personal Plus Accompaniment",
+            "Alternative Medicine",
+            "Specialist Doctor or Line",
+            "Bar Giora Hotline",
+            "Medical Devices",
+            "Medicinal Services for Children"
+        ]
+    },
+    {
+        "section_number": 4,
+        "missed_items": [
+            "Payment method request",
+            "Declaration of truth and health declaration",
+            "Annex V including premium development",
+            "Follow-up call scheduling",
+            "Beneficiaries",
+            "Comparison of coverages/exclusions",
+            "Standing Order",
+            "Disclosure",
+            "Needs assessment results",
+            "Policy effect date",
+            "Acclimation period",
+            "Additional monthly payment + relative charge",
+            "Premium is linked to the index and varies by age groups",
+            "Cancellation of a basic health policy within 6 months",
+            "Appeal the signing conditions",
+            "Proposal to Cancel an Existing Policy",
+            "Capital Market Authority established the 'Insurance Mountain'",
+            "Intention to purchase the offered product in addition to the existing product"
+        ]
+    }
+]

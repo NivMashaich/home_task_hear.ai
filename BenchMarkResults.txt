@@ -1,0 +1,31 @@
+```json
+meta/llama-2-70b-chat
+{
+    "model": "Model 1",
+    "evaluation_scores": {
+        "Relevance of key areas for improvement": 2,
+        "Clarity and specificity of recommendations": 3,
+        "Coverage of all important aspects of the script": 2,
+        "Actionability of the suggestions": 3,
+        "Validate output format": 1
+    },
+    "formula": "Sum of all scores / 5",
+    "overall_score": 2.2
+}
+```
+
+gpt-4:
+```json
+{
+    "model": "Model 2",
+    "evaluation_scores": {
+        "Relevance of key areas for improvement": 5,
+        "Clarity and specificity of recommendations": 4,
+        "Coverage of all important aspects of the script": 5,
+        "Actionability of the suggestions": 4,
+        "Validate output format": 3
+    },
+    "formula": "Sum of all scores / 5",
+    "overall_score": 4.2
+}
+```

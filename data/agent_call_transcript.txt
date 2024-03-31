@@ -1,0 +1,88 @@
+Agent: Good afternoon! My name is Sarah Johnson and I'm calling from BrightPath Insurance. Am I
+speaking with Mark Thompson?
+Prospect: Yes, that's me.
+Agent: Great! The reason for my call today is that I wanted to take a few minutes to discuss your current
+insurance needs and see if we may be able to save you some money on your coverage. Before we get
+started, I want to make sure I have your consent to continue this marketing call. Do I have your
+permission to briefly discuss BrightPath's insurance offerings with you?
+Prospect: Yes, that's fine.
+Agent: Thank you. First, could you please verify some basic information for me? What is your date of
+birth?
+Prospect: It's November 15th, 1978.
+Agent: And your current address?
+Prospect: 123 Oak Street, Columbus, Ohio 43215
+Agent: Wonderful, thank you for confirming those details. I want to ensure I understand your current
+insurance portfolio. Are you presently covered for auto, home, life, and health insurance policies?
+Prospect: Yes, I have coverage across all those areas.
+Agent: Okay great. Now, I'm going to ask you for authorization to securely access your information in our
+system. This will allow me to review your coverage specifics and potentially find ways to save you money.
+Can I have your approval to access your details?
+Prospect: Yes, that's fine.
+Agent: Thank you. One moment while I pull up your account...Okay, I have your policy information now.
+I'm reviewing your current auto insurance which covers your 2018 Honda Accord. The policy provides
+$500,000 in liability coverage, comprehensive and collision with a $500 deductible. Is that accurate?
+Prospect: Yes, that's right.
+Agent: For your home insurance, I see you're covered for a single family 2,500 square foot residence with
+a $300,000 dwelling limit, $100,000 liability, and a $500 deductible. Does this align with what you
+understand?
+Prospect: Yes, that looks correct.
+Agent: Your health insurance includes a $2,500 deductible plan with an 80/20 co-insurance after
+deductible. And for life insurance, you have a $250,000 term life policy. Does this all sound accurate
+based on your understanding?
+Prospect: Yes, that matches what I have.
+Agent: Thank you for confirming all the details. Now that I have a grasp of your current coverage, let me
+take a look at how BrightPath may be able to provide similar or enhanced protection at some nice
+savings for you. [Brief pause]
+Okay, based on my review, I believe we could offer you auto liability coverage up to $1 million at a rate of
+$82 per month versus the $95 you're currently paying. We also have some bundling discounts where
+having your auto and home policies with us could lead to savings of around 20% on your total premiums.
+For your health insurance, our UnitedHealthcare Gold plan may be a good fit. It has a $1,500 deductible
+and 80/20 coinsurance, but the monthly premium is $525 compared to the $585 you pay now. And our
+rates for a $250,000 term life policy for someone your age tend to be around $22 per month.
+What are your thoughts on potentially moving your business to BrightPath to take advantage of savings
+like these? I'm happy to go into more details if you have any other questions.
+Prospect: It sounds interesting, but I would really need to see the full details and numbers side-by-side
+with my current policies to make a proper evaluation. I'm not comfortable making any decisions today
+based on just the high-level details.
+Agent: I completely understand. Making a change to your comprehensive insurance portfolio is definitely
+a big decision, so I appreciate your hesitation. Why don't we do this - I can put together some firm,
+apples-to-apples quotes with all the exact coverage details and premium costs from BrightPath
+compared to what you have now. That will give you all the facts in an easy-to-review format to truly
+evaluate whether we could provide better value and rates. If the numbers look good to you, we can
+proceed from there. But if not, no worries at all. Does that sound reasonable?
+Prospect: Yes, getting the full side-by-side comparison in writing would be very helpful for me to properly
+evaluate making a change. That makes total sense.
+Agent: Absolutely. Now before I generate those formal quotes, I do need to go through a few more quick
+questions to make sure the information I provide is fully accurate. Can you please confirm again for me
+your date of birth of November 15, 1978? And that your current address is 123 Oak Street, Columbus,
+Ohio 43215? Also, to cover your auto policy, was the 2018 Honda Accord vehicle accurately reflecting
+your current automobile?
+Prospect: Yes, those personal details like my date of birth, address, and vehicle are all still correct.
+Agent: Great, thank you for confirming. And has there been any insurance claims on your home policy in
+the last 5 years or any changes to the square footage such as additions that I should be aware of?
+Prospect: No, there haven't been any claims and the home is still the original 2,500 square feet, no
+additions or changes.
+Agent: Perfect, I appreciate you verifying that for me. I just have a few other quick questions about your
+general health status and medical history to fulfill our due diligence...
+[Proceeds through declaration of truth and health declaration questions]
+Now the last step before I can provide the firm quotes is to get a payment method on file, as we would
+only be able to issue the new policies upon receipt of initial payment. If you give me a credit or debit
+card number, I can enter that and you would not be charged anything today. Then if you do decide to
+proceed, we would simply run the card for your first premium payment at that time. Does that sound
+alright?
+Prospect: Yes, that process makes sense. You can go ahead and put my Visa card on file for now. The card
+number is 4024 0071 9381 4567, expiration is 08/26, and the security code is 743.
+Agent: Thank you for providing that information, I have it entered securely into our system. Now I have
+all the necessary details to generate a formal side-by-side comparison with your current policies and
+pricing from BrightPath. What is the best email address for me to send those quotes over?
+Prospect: Please use markthompson@emaildomain.com
+Agent: Perfect, I will send that detailed comparison over to markthompson@emaildomain.com shortly
+and you can review everything thoroughly at your convenience. If those BrightPath quotes look favorable
+compared to your current policies, we can set up a call to officially activate the new coverage. And if they
+don't meet your needs, I appreciate you taking the time to hear our offerings today.
+Prospect: Okay, sounds good. I look forward to receiving that comprehensive comparison and will review
+it carefully when I can. Thank you.
+Agent: You're very welcome, Mark. I will get that complete policy and pricing analysis over to your email
+right away so you have all the facts in front of you. Have an excellent rest of your day!
+Prospect: Thank you, you as well. Goodbye.
+Agent: Goodbye!
