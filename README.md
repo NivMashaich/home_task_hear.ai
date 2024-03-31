@@ -39,16 +39,19 @@ Using replicate library.
 - Install the required dependencies: pip install -r requirements.txt
 - Run the tool with the desired options:
 
-- For llama: python main.py --model llama --script path/to/script.json --transcript path/to/transcript.txt
-- For gpt: python main.py --model gpt --script path/to/script.json --transcript path/to/transcript.txt
+- Extract missed items using llama : python main.py --model llama --script path/to/script.json --transcript path/to/transcript.txt
+- Extract missed items using gpt : python main.py --model gpt --script path/to/script.json --transcript path/to/transcript.txt 
 - Use the --adherence flag to calculate the adherence percentage instead of missed items
-- Example : python main.py --model llama --adherence --script path/to/script.json --transcript path/to/transcript.txt --adherence
+  Example : python main.py --model gpt --adherence --script path/to/script.json --transcript path/to/transcript.txt --adherence
+
 
 # RoadMap: 
 
 # Phase 2: Future Improvements
 **For the next phase, the following improvements are considered:**
 
+- Test different types of prompt engineering techniques.
+- Develop automated agents to streamline the conversation analysis process.
 - Long Input Handling: Implement embeddings to handle and chunk long inputs for better accuracy.
 - Cosine Similarity: Use cosine similarity to measure the similarity between the script and transcript.
 - Sentiment Analysis: Integrate a classification model to score the tone of the conversation based on positive and negative analysis.

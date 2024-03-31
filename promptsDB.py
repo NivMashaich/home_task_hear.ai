@@ -10,8 +10,8 @@ class Prompts:
         
     class LlamaMissedItemPrompt:
        """
-        -This is a Guideline Script for {company_name} Sales Agent: {script}
-        -This is a Sales Call Transcript between a Potential Customer and a Sales Agent of {company_name}: {transcript}
+        -This is a guideline Script for {company_name} Sales Agent: {script}
+        -This is a sales call Transcript between a potential customer and a Sales Agent of {company_name}: {transcript}
 
         You will generate an increasingly concise list of missed items from the above transcript.
 
@@ -26,9 +26,7 @@ class Prompts:
 
         Guidelines:
         - each missed item should not be longer then 6 words.
-        - Use the script guide to identify missed items That missed by the agent.
-        - Make space with compression and removal of uninformative phrases.
-        - The lists should become highly dense and concise yet self-contained.
+        - Use the script guideline to identify missed items That missed by the agent.
         - The structure is in chronological order, So iterate through the script guide in order corresponding to the transcript.
         - Never drop items from the previous list. If space cannot be made, add fewer new items.
         - Each section can contain missed items and Non-missed items, Your goal is to extrct the exact missed items from the script guide.

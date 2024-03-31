@@ -93,13 +93,13 @@ class LlamaMissedItemsAnalyzer:
             for output in output_iterator:
                 results += ' '.join(str(output).split('\n'))
             # Save the results to a file
-            self.save_results(results, 'results.txt')
+            self.save_results(results, 'missed_items_llama.txt')
             return results
         except Exception as e:
             logger.error(f"Error during analysis: {e}")
             raise
     
-    def save_results(self, results: str, output_path: str = 'llama_results.txt'):
+    def save_results(self, results: str, output_path: str = 'missed_items_llama.txt'):
         try:
             with open(output_path, 'w') as file:
                 file.write(results)
@@ -108,7 +108,7 @@ class LlamaMissedItemsAnalyzer:
             logger.error(f"Error saving results: {e}")
             raise
         
-    def get_missed_items(self, results_path: str = 'llama_results.txt') -> List[str]:
+    def get_missed_items(self, results_path: str = 'missed_items_llama.txt') -> List[str]:
         try:
             with open(results_path, 'r') as file:
                 missed_items = file.read()
