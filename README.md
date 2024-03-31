@@ -13,6 +13,15 @@ In a real-world scenario, the conversation would be chunked into smaller parts f
 The script is designed to analyze conversation transcripts against a provided script.
 It identifies missed items and calculates the adherence percentage to the script. 
 
+# Results file:
+
+- missed_items_gpt.json: Holds the extracted missed items as json
+- llama_result.txt: Holds the extrected missed items 
+- GptAdherenceResults.txt: Holds the adherene result
+- LlamaAdhernceResults: Holds the llama adherence results
+- BenchMarkResults.txt: Holds the benchmark results from both models.
+
+
 # Directory Structure:
 - gpt_missed_items_analysis.py: This is a gpt utility script that is used to analyze the conversation transcript and calculate the missed items 
 Using langchain for prompt managment.
@@ -46,8 +55,11 @@ Using replicate library.
 - MetaData analysis: Extract the metadata from the conversation and analyze it for better insights.
 - Database Integration: Store results, transcripts, and scripts in a database for regression testing and prompt efficiency evaluation.
 - Model Evaluation: Utilize frameworks like LangFuse to evaluate model accuracy and performance.
-- Comprehensive Evaluation: Evaluate models based on criteria such as consistency, accuracy, token usage, format adherence, response time, and more.
+- Comprehensive Evaluation: Evaluate models based on criteria such as consistency, accuracy, token usage, format adherence, response time, etc..
 - Remove Hardcoded Values: Remove hardcoded values and make the tool more flexible and configurable.
+- Developing an ELO Rating system for rate models continuously and automated
+
+
 
 # Conclusion
 - This tool serves as a demo for analyzing conversation transcripts and calculating script adherence. 
