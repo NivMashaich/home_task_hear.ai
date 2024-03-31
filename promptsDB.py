@@ -4,7 +4,8 @@ class Prompts:
     class SystemLlamaMissedItemPrompts:
         """
         As an AI agent for {company_name}, 
-        your task is to generate a list of key compliance items that were required but missed by the sales agent during a call with a potential customer. 
+        your task is to generate a list of key compliance items that were required but missed by the sales agent during a call 
+        with a potential customer. 
         This analysis is crucial for ensuring adherence to company and regulatory standards.
         """
         
