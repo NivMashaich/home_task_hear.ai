@@ -16,7 +16,7 @@ It identifies missed items and calculates the adherence percentage to the script
 
 # Results file:
 - missed_items_gpt.json: Holds the extracted missed items as json
-- llama_result.txt: Holds the extrected missed items 
+- missed_items_llama.txt: Holds the extrected missed items 
 - GptAdherenceResults.txt: Holds the adherene result
 - LlamaAdhernceResults: Holds the llama adherence results
 - BenchMarkResults.txt: Holds the benchmark results from both models.
